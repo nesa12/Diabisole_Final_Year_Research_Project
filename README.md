@@ -6,11 +6,6 @@ The research paper for this research which is "Enhancing Diabetic Shoe Insole Cu
 
 [Publication Link](https://ieeexplore.ieee.org/document/10417280)
 
-![Screenshot 2024-02-13 225656](https://github.com/nesa12/Diabisole_Final_Year_Research_Project/assets/87229466/6464a8e0-408a-4020-951a-d99298f60221)
-
-![WhatsApp Image 2023-12-11 at 19 42 04_010bc3e0](https://github.com/nesa12/Diabisole_Final_Year_Research_Project/assets/87229466/e9d84eb3-7092-41c3-83ad-bb2877d98f27)  ![WhatsApp Image 2023-12-08 at 09 36 05_dfa11859](https://github.com/nesa12/Diabisole_Final_Year_Research_Project/assets/87229466/3dead378-a096-4cac-bcd4-92ca5a02fade)
-
-
 ## Main Objective
 
 Provide a web application based solution to aid prosthetic and orthotic surgeons to automate the manual procedure of customizing diabetic shoe insoles by detecting and measuring the areas to cut holes and offload the insole accurately. Additionally, this applucation predicts the Diabetic Foot Ulcer's (DFU's) criticality automatically.
@@ -37,6 +32,9 @@ Provide a web application based solution to aid prosthetic and orthotic surgeons
 | S.A.K.S. Samarasinghe | Identify and measure high-pressure areas (red colour areas) by using the scanned foot image. |
 | S.M.D.H. Samarakoon | Analyze the two datasets containing real and scanned images of feet and identify new areas to re-distribute pressure (pressure offloading areas). |
 
+## System High-level Diagram
+
+![Diabisole](https://github.com/nesa12/Diabisole_Final_Year_Research_Project/assets/87229466/cf465962-4d5e-45c3-b38b-f76b837ca899)
 
 ## Other necessary information
 
