@@ -8,7 +8,7 @@ The research paper for this research which is "Enhancing Diabetic Shoe Insole Cu
 
 ![Screenshot 2024-02-13 225656](https://github.com/nesa12/Diabisole_Final_Year_Research_Project/assets/87229466/d47c5b9e-b489-4e70-966e-8bcf2d5798f7)
 
-![Screenshot 2024-04-03 142647](https://github.com/nesa12/Diabisole_Final_Year_Research_Project/assets/87229466/501675df-df3b-4a34-b431-661d94073eb8)
+![Screenshot 2024-04-03 142647](https://github.com/nesa12/Diabisole_Final_Year_Research_Project/assets/87229466/063a5a5d-4936-4550-9dec-9eeaf438bcec)
 
 ## Main Objective
 
