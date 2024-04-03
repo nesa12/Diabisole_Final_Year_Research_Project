@@ -8,6 +8,8 @@ The research paper for this research which is "Enhancing Diabetic Shoe Insole Cu
 
 ![Screenshot 2024-02-13 225656](https://github.com/nesa12/Diabisole_Final_Year_Research_Project/assets/87229466/d47c5b9e-b489-4e70-966e-8bcf2d5798f7)
 
+![Screenshot 2024-04-03 142647](https://github.com/nesa12/Diabisole_Final_Year_Research_Project/assets/87229466/501675df-df3b-4a34-b431-661d94073eb8)
+
 ## Main Objective
 
 Provide a web application based solution to aid prosthetic and orthotic surgeons to automate the manual procedure of customizing diabetic shoe insoles by detecting and measuring the areas to cut holes and offload the insole accurately. Additionally, this applucation predicts the Diabetic Foot Ulcer's (DFU's) criticality automatically.
@@ -44,3 +46,6 @@ Provide a web application based solution to aid prosthetic and orthotic surgeons
 *  Foot images with wounds of diabetic patients dataset/ wound criticality dataset - Taken from Dr. Namarathe at Diabetic Footcare and Rehabilitation Center, Nawala 
 *  Scanned foot images of diabetic patients dataset - Taken from Kings Hospital, Colombo
 *  DFU severity prediction dataset - Generated using above two datasets
+
+![Screenshot 2024-04-03 141510](https://github.com/nesa12/Diabisole_Final_Year_Research_Project/assets/87229466/264954c3-af5e-466f-a448-a427cff41df2)
+
